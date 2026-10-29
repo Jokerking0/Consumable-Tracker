@@ -1,23 +1,27 @@
-{
-  "Author": "Jokerking0",
-  "Name": "Consumable Tracker",
-  "InternalName": "ConsumableTracker",
-  "AssemblyVersion": "1.0.0.0",
-  "Description": "Tracks your own potion and food buff usage per duty, with local totals. Open with /pots.",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Jokerking0/Consumable-Tracker",
-  "Tags": [
-    "utility",
-    "tracker"
-  ],
-  "DalamudApiLevel": 15,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/Jokerking0/Consumable-Tracker/master/images/burger.png",
-  "DownloadLinkInstall": "https://github.com/Jokerking0/Consumable-Tracker/releases/latest/download/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/Jokerking0/Consumable-Tracker/releases/latest/download/latest.zip",
-  "Punchline": "Counts the pots and food you use in duties.",
-  "AcceptsFeedback": true
-}
+[
+    {
+        "Author": "Jokerking0",
+        "Name": "Consumable Tracker",
+        "InternalName": "ConsumableTracker",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "Tracks your own potion and food buff usage per duty, with local totals. Open with /pots.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Jokerking0/Consumable-Tracker",
+        "Tags": [
+            "utility",
+            "tracker"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/Jokerking0/Consumable-Tracker/master/images/burger.png",
+        "DownloadLinkInstall": "https://github.com/Jokerking0/Consumable-Tracker/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Jokerking0/Consumable-Tracker/releases/latest/download/latest.zip",
+        "Punchline": "Counts the pots and food you use in duties.",
+        "AcceptsFeedback": true
+    }
+]
