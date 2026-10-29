@@ -4,7 +4,7 @@ Custom [FFXIVQuickLauncher](https://github.com/goaaats/FFXIVQuickLauncher) plugi
 Add following custom repository in Dalamud Settings, Experimental tab:
 
 ```
-https://raw.githubusercontent.com/Jokerking0/Consumable-Tracker/refs/heads/master/master/ConsumableTracker.json
+https://raw.githubusercontent.com/Jokerking0/Consumable-Tracker/master/master/ConsumableTracker.json
 ```
 
 ## Supported plugins
