@@ -3,7 +3,7 @@
         "Author": "Jokerking0",
         "Name": "Consumable Tracker",
         "InternalName": "ConsumableTracker",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.1.0",
         "Description": "Tracks your own potion and food buff usage per duty, with local totals. Open with /pots.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Jokerking0/Consumable-Tracker",
